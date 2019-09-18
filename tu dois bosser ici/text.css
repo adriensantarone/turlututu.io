@@ -1,0 +1,251 @@
+nav
+{
+  background-color: #333333;
+  padding-top: 10px;
+  padding-bottom: 5px;
+  align-items: center;
+  padding-left: 90px;
+  padding-right: 50px;
+  margin-right: -7px;
+  margin-left: -7px;
+  margin-top: -17px;
+
+  
+}
+
+.btn{
+
+  border-style: none;
+  border-width: 1px;
+  border-radius: 5px;
+  padding: 5px;
+  margin: 5px;
+  color: rgb(245, 240, 235);
+  font-size: 20px;
+
+}
+
+  
+ul
+{
+
+    display: flex;
+    justify-content: space-around;  
+    flex-direction: row;
+    list-style-type: none;
+
+}
+
+a{
+    color: #fff;
+    text-decoration: none;
+}
+
+body{
+
+    background-image: linear-gradient(to right top, #1e93cc, #1d93c9, #1c93c6, #1d92c2, #1f92bf);
+}
+
+.photogauche{
+float: left;
+width: 100px; /* largeur*/
+height:75px; /* hauteur*/
+margin-right:10px; 
+}
+
+.simple{
+
+    color: white;
+    font-size: 20px;
+    padding-left: 590px;
+}
+
+.boutonorange{
+background-color: #E99002;
+font-size: 150%;
+border-width: 2px;
+border-radius: 9px;
+border-style: solid;
+border-color: white;
+margin-right: 600px;
+margin-left: 600px;
+padding-top: 20px;
+padding-bottom: 20px;
+margin-top: 20px;
+text-align: center;
+}
+
+.awesome{
+
+  background-color: white;
+  font-size: 25px;
+}
+
+.awesome2{
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: white;
+  color: black;
+  text-align: center;
+  margin-right: -7px;
+  margin-left: -7px;
+}
+
+.premier{
+
+  display: flex;
+  justify-content: space-around;
+
+}
+
+.bloc1{
+
+text-align: justify;
+max-width: 500px;
+font-size: 15px;
+}
+
+.bloc2{
+
+text-align: justify;
+max-width: 500px;
+font-size: 15px;
+}
+
+.deuxieme{
+
+  display: flex;
+  justify-content: space-around;
+
+}
+
+.bloc3{
+
+text-align: justify;
+max-width: 500px;
+font-size: 15px;
+}
+
+.bloc4{
+
+text-align: justify;
+max-width: 500px;
+font-size: 15px;
+}
+
+
+.presquefin1{
+padding-top: 20px;
+padding-bottom: 20px;
+background-color: #fff;
+color: gray;
+text-align: center;
+  margin-right: -7px;
+  margin-left: -7px;
+
+}
+.over1{
+margin-top: -16px;
+margin-bottom: 40px;
+padding-top: 100px;
+padding-bottom: 100px;
+background-color: #EEEEEE;
+color: gray;
+  margin-right: -7px;
+  margin-left: -7px;
+
+}
+
+.rules{
+
+  display: flex;
+  justify-content: space-around; /* je n'arrive plus à le faire fonctionner */
+
+ }
+
+.rules1{
+
+  background-color: #EEEEEE;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 400px;
+  padding-right: 400px;
+  margin-right: -7px;
+  margin-left: -7px;
+  margin-top: -16px;
+  
+}
+
+
+.boutonmaster{
+  display: flex;
+  justify-content: center;
+  background-color: white;
+  padding-top: 40px;
+  padding-bottom: 85px;
+  margin-top: -16px;
+  margin-right: -7px;
+  margin-left: -7px;
+}
+
+.rest{
+
+     font-family: Arial,sans-serif;
+     font-size: 1.6em;
+     width: 240px;
+     height: 43px;
+     padding-top: 7px; 
+     text-align: center;
+     color: white;
+     background: #165882;
+     margin-right: 10px;
+     border-radius: 9px
+
+}
+
+.docs{
+
+     font-family: Arial,sans-serif;
+     font-size: 1.6em;
+     width: 240px;
+     height: 43px;
+     padding-top: 7px; 
+     text-align: center;
+     color: white;
+     background: #165882;
+     border-radius: 9px
+}
+
+.start{
+
+     font-family: Arial,sans-serif;
+     font-size: 1.6em;
+     width: 240px;
+     height: 43px;
+     padding-top: 7px; 
+     text-align: center;
+     color: white;
+     background: #F28705;
+     margin-left: 10px;
+     border-radius: 9px
+}
+
+footer {
+width:100%;
+margin-right: 10px;
+margin-left: -10px;
+display:flex;
+flex-direction: row;
+align-items: center;
+height:8.5;
+background-color:#333333;
+color:#fff;
+}
+
+footer  a {
+padding:0 20px;
+border-right:2px dotted #dddddd; /* Le dotted me permet de placer des séparations en pointillé ! */
+color:#fff;
+font-weight:300;
+}
